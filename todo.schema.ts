@@ -6,3 +6,5 @@ interface T_Interface extends Document{
 
 const ToDoSchema = new Schema({title:String})
 const ToDoModel = model("task",ToDoSchema)
+
+export {ToDoModel};
