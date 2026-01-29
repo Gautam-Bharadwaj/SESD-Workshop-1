@@ -4,4 +4,4 @@ interface T_Interface extends Document{
     title:String;
 }
 
-const ToDoSchema = new Schema()
+const ToDoSchema = new Schema({title:String})
