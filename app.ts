@@ -26,7 +26,7 @@ export class App implements App_Interface{
             console.log("Server chalu hoyaa")
         })
     }
-    connectDatabase(){
+    async connectDatabase(){
         try{
             await mongoose.connect("")
             console.log("Database Connected")
