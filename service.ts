@@ -16,3 +16,4 @@ export const updateTodo = async (id: string, title: string) => {
 export const deleteTodo = async (id: string) => {
   return await ToDoModel.findByIdAndDelete(id);
 };
+
