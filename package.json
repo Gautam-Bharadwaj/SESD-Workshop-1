@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vegapunk-debug/CRUD-App-backend-ts.git"
+    "url": "git+https://github.com/Gautam-Bharadwaj/SESD-Workshop-1.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gautam Bharadwaj",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vegapunk-debug/CRUD-App-backend-ts/issues"
+    "url": "https://github.com/Gautam-Bharadwaj/SESD-Workshop-1/issues"
   },
-  "homepage": "https://github.com/Vegapunk-debug/CRUD-App-backend-ts#readme",
+  "homepage": "https://github.com/Gautam-Bharadwaj/SESD-Workshop-1#readme",
   "dependencies": {
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
